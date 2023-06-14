@@ -3,7 +3,7 @@ const AboutContainer = () => {
   return (
     <section className="about-container">
         <h2>Sobre</h2>
-        <p>Me chamo Luan Deivson, tenho 31 anos e sou estudante de Tecnologia. 
+        <p>Me chamo Luan Deivson, tenho 31 anos e sou estudante de Tecnologia há 9 meses. 
           Comecei com a Linguagem PHP, onde pude conhecer e estudar a lógica de programação,
           daí comecei a me aprofundar nos estudos e conhecer outras tecnologias...
         </p>

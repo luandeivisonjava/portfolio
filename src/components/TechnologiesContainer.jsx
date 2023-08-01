@@ -8,6 +8,7 @@ import {
   DiMongodb,
   DiPostgresql,
   DiPhp,
+  DiWordpress,
   DiSass,
   DiGithubBadge
 } from 'react-icons/di';
@@ -23,6 +24,7 @@ const technologies = [
   {id: 'mongodb', name:'MongoDb', icon:<DiMongodb />},
   {id: 'postgres', name:'PostGres', icon:<DiPostgresql />},
   {id: 'php', name:'PHP', icon:<DiPhp />},
+  {id: 'wp', name:'WordPress', icon:<DiWordpress />},
   {id: 'sass', name:'SASS', icon:<DiSass />},
   {id: 'git', name:'GIT', icon:<DiGithubBadge />},
 ]
